@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -12,7 +12,7 @@
 <body>
 	<h2 class="text-xs-center">Thao tác thành công</h2>
 	<div class="container text-xs-center">
-		<a href="<?= base_url(); ?>index.php/themngay" class="btn btn-info">Về trang chủ</a>
+		<a href="<?= base_url(); ?>index.php/themngay" class="btn btn-info">Về trang chủ di</a>
 	</div>
 
 </body>
